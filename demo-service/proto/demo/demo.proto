@@ -1,5 +1,5 @@
 syntax = "proto3";
-package go.micro.srv.auditIntegral;
+package go.micro.srv.demo;
 
 // 货轮微服务
 service ShippingService {
