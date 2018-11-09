@@ -1,10 +1,10 @@
 package main
 
 import (
-	pb "auditIntegral/demo-service/proto/demo"
 	"context"
 	"github.com/micro/go-micro"
 	"log"
+	pb "protoMicroDemo/demo-service/proto/demo"
 )
 
 // 仓库接口
